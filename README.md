@@ -24,4 +24,4 @@ Comme il s'agit d'un projet d'exemple, je vous encourage à cloner et renommer c
 
 ---
 **Auteur :** GHAREB Kaoutar  
-**Statut :** Élève Ingénieure ISI
+**Statut :** Élève Ingénieure 
